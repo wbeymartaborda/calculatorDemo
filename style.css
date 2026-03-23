@@ -4,6 +4,13 @@
     border: border-box;
 }
 
+.container{
+height: 100%;
+width: 100%;
+margin-top:10px;
+display: flex;
+justify-content: center;
+}
 
 #calculator{
     border: 1px solid black;
